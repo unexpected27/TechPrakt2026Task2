@@ -1,4 +1,4 @@
-let arr = [
+const arr = [
     {
         "name": "Petro",
         "age": 19,
@@ -102,3 +102,4 @@ class UserPanels {
     }
 }
 let userPanels = new UserPanels(arr);
+
