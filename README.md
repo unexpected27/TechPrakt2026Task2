@@ -6,3 +6,5 @@
 
 * Антипенко Артем Андрійович, ВТ-24-1
 
+Email: vt241_aaa@student.ztu.edu.ua
+
